@@ -1,7 +1,7 @@
 * netman.el
 ** NetworkManager the easy way.
-M-x wifi-up RET Start your wifi, see customization.
-M-x wifi-down RET Stop your wifi.
-M-x nm-man RET Pretty print NetworkManager status.
-M-x nm-dev RET ...devices.
-M-x nm-con RET ...status.
+*** M-x wifi-up RET Start your wifi, see customization.
+*** M-x wifi-down RET Stop your wifi.
+*** M-x nm-man RET Pretty print NetworkManager status.
+*** M-x nm-dev RET ...devices.
+*** M-x nm-con RET ...status.
