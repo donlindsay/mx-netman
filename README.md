@@ -1,4 +1,0 @@
-netman
-======
-
-NetworkManager interface.
